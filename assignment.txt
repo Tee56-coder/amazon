@@ -1,0 +1,16 @@
+meaning of fr
+difference between max width and width
+what is the meaning of flex 1
+what does this sign mean ^
+
+
+assignment 
+
+fr can be defined as fraction it is a unit of measurement
+
+The CSS width property can be set to any specific size or percentage value, telling the browser that this should always be the minimum width of an element. Meanwhile, max-width can also use any specific size or percentage value but allows the element to expand if needed
+
+
+If an element has flex: 1 , this means the size of all of the other elements will have the same width as their content, but the element with flex: 1 will have the remaining full space given to it
+
+
